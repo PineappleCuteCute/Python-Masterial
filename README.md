@@ -119,8 +119,6 @@ other people about it.
 
 ----
 `>>>` Advanced Python Mastery  
-`...` A course by [dabeaz](https://www.dabeaz.com)  
-`...` Copyright 2007-2023  
 
 ![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png). This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
