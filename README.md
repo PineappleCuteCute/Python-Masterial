@@ -1,8 +1,5 @@
 # Advanced Python Mastery
 
-A course by David Beazley (https://www.dabeaz.com)  
-Copyright (C) 2007-2023  
-
 ## Synopsis
 
 An exercise-driven course on Advanced Python Programming that was
